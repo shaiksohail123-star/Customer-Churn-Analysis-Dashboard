@@ -4,7 +4,16 @@
 This project analyzes *customer churn behavior* using data analysis and machine learning.
 The dashboard helps understand why customers leave a service and predicts the probability of churn.
 
-The application is built using *Python, Streamlit, Pandas, and Machine Learning*.
+The application is built using *Python, Streamlit, Pandas, and Machine Learning*. 
+
+## Business Problem
+
+Customer churn is a critical issue for subscription-based businesses. 
+When customers leave the service, it directly impacts revenue.
+
+This project analyzes customer behavior and builds a machine learning model 
+to predict which customers are likely to churn, allowing businesses to 
+take preventive retention actions.
 
 ### Objectives
 
