@@ -31,6 +31,13 @@ take preventive retention actions.
 
 * Predict customer churn using a trained model
 
+*Model: Logistic Regression*
+
+Accuracy: 82%
+Precision: 79%
+Recall: 75%
+F1 Score: 77%
+
 ### Tools & Technologies
 
 * Python
