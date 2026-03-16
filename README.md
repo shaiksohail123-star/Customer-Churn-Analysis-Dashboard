@@ -69,6 +69,10 @@ Total Customers: *7043*
 
 * *Tenure* months strongly influence customer retention
 
+## Project Architecture
+
+Data → Data Processing → Feature Engineering → Machine Learning Model → Streamlit Dashboard → Prediction Interface
+
 ## Dashboard Screenshots
 ### Customer Churn Dashboard
 
